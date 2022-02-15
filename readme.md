@@ -1,5 +1,6 @@
 # GalaxyCors
 ![](icon.png)
+
 GalaxyCors is a tool to determinate if http endpoints have basic CORS Misconfiguration.
 
 ## Usage
